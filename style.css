@@ -1,0 +1,136 @@
+body {
+    font-family: 'Potta One';
+}
+
+.fix {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    background-color: #eff7e1;
+    font-size: 17px;
+}
+
+.fix a {
+    color: black;
+    text-decoration: none;
+}
+
+.fix img {
+    width: 50px;
+}
+
+.description {
+    padding: 70px;
+}
+
+.lol {
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.kaz_map {
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.vid {
+    width: 1100px;
+    padding: 50px;
+    outline: none;
+}
+
+.video_section {
+    background-color: #51c2d5;
+    display: flex;
+    justify-content: center;
+}
+
+.cities {
+    background-color: #51c2d5;
+    padding: 70px;
+}
+
+.cities h2 {
+    text-align: center;
+}
+
+.cities img {
+    height: 250px;
+    width: auto;
+}
+
+.lol {
+    margin-right: 15px;
+}
+
+#city_slider {
+    padding: 50px;
+}
+
+#city_slider h2 {
+    text-align: center;
+}
+
+#contacts {
+    background-color: #51c2d5;
+    padding: 70px;
+    font-size: 18px;
+}
+
+.heh {
+    width: 500px;
+}
+
+.contact_info {
+    text-align: center;
+}
+
+.name {
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    padding: 7px;
+    width: auto
+}
+
+.email {
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+#message {
+    margin: 15px 0;
+    border: 0;
+    box-shadow: 0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius: 10px;
+    padding: 7px;
+    width: 65.5%;
+}
+
+#send {
+    border-radius: 10px;
+}
+
+#contacts2 {
+    padding: 70px;
+    font-size: 18px;
+}
+
+#contacts2 h2 {
+    text-align: center;
+}
+
+#contacts2 hr {
+    border: 3px solid black;
+    border-style: inset none none none;
+}
+
+#contacts2 img {
+    width: 50px;
+    align-items: center;
+    margin-top: 10px;
+}
